@@ -1,5 +1,5 @@
 import React from "react"
-import Layout from "../components/Layout"
+import Layout from "../components/layout"
 import { graphql, Link} from "gatsby"
 import * as blogPostStyles from "./blog.post.module.scss"
 import Img from "gatsby-image"
